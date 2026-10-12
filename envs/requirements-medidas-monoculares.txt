@@ -1,0 +1,19 @@
+# Entorno Linux/uv para src/medidas_monoculares (estimación de estatura y
+# largos desde una sola foto). Independiente de los entornos conda del runtime
+# oficial. Instalar con: bash scripts/medidas_monoculares/preparar_entorno.sh
+torch>=2.4
+torchvision>=0.19
+numpy
+pillow
+opencv-python-headless
+matplotlib
+scipy
+trimesh
+mediapipe>=0.10.14
+huggingface-hub
+einops
+roma
+# 0.3.1 es la versión con la que se publicó el checkpoint Multi-HMR + Anny; las
+# posteriores cambian la salida del modelo corporal.
+anny==0.3.1
+pytest>=8

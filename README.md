@@ -149,3 +149,4 @@ incertidumbre y no afirmar que una imagen virtual demuestra ajuste de sastrería
 - [Auditoría de modelos activos](docs/AUDITORIA_MODELOS_RUNTIME.md)
 - [Configuración de percepción](docs/PERCEPTION_SETUP.md)
 - [Decisión del motor de patrones](reports/pattern_engine_decision.md)
+- [Estatura y largos desde una sola foto (experimental)](docs/MEDIDAS_MONOCULARES.md)

@@ -24,3 +24,6 @@ __pycache__/
 tests/.pytest-tmp/
 .ipynb_checkpoints/
 *.log
+
+# --- Entorno local de medidas monoculares (uv) ---
+.venv-medidas/
